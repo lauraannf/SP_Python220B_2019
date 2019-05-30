@@ -203,3 +203,27 @@
 2019-04-17 16:55:14,124 basic_operations.py:38  INFO Added new customer, Customer ID 00004
 2019-04-17 16:55:14,134 basic_operations.py:38  INFO Added new customer, Customer ID 00001
 2019-04-17 16:55:14,136 basic_operations.py:96  INFO Customer with ID 00001 has been updated
+2019-04-23 13:51:27,609 basic_operations.py:38  INFO Added new customer, Customer ID 00001
+2019-04-23 13:51:27,628 basic_operations.py:38  INFO Added new customer, Customer ID 00001
+2019-04-23 13:51:27,631 basic_operations.py:38  INFO Added new customer, Customer ID 00002
+2019-04-23 13:51:27,632 basic_operations.py:79  INFO Customer with Customer ID 00001 has been deleted
+2019-04-23 13:51:27,641 basic_operations.py:38  INFO Added new customer, Customer ID 00001
+2019-04-23 13:51:27,644 basic_operations.py:38  INFO Added new customer, Customer ID 00002
+2019-04-23 13:51:27,646 basic_operations.py:38  INFO Added new customer, Customer ID 00003
+2019-04-23 13:51:27,649 basic_operations.py:38  INFO Added new customer, Customer ID 00004
+2019-04-23 13:51:27,656 basic_operations.py:38  INFO Added new customer, Customer ID 00001
+2019-04-23 13:51:27,660 basic_operations.py:38  INFO Added new customer, Customer ID 00004
+2019-04-23 13:51:27,667 basic_operations.py:38  INFO Added new customer, Customer ID 00001
+2019-04-23 13:51:27,669 basic_operations.py:96  INFO Customer with ID 00001 has been updated
+2019-04-23 13:52:03,645 basic_operations.py:38  INFO Added new customer, Customer ID 00001
+2019-04-23 13:52:03,654 basic_operations.py:38  INFO Added new customer, Customer ID 00001
+2019-04-23 13:52:03,657 basic_operations.py:38  INFO Added new customer, Customer ID 00002
+2019-04-23 13:52:03,658 basic_operations.py:79  INFO Customer with Customer ID 00001 has been deleted
+2019-04-23 13:52:03,666 basic_operations.py:38  INFO Added new customer, Customer ID 00001
+2019-04-23 13:52:03,668 basic_operations.py:38  INFO Added new customer, Customer ID 00002
+2019-04-23 13:52:03,672 basic_operations.py:38  INFO Added new customer, Customer ID 00003
+2019-04-23 13:52:03,675 basic_operations.py:38  INFO Added new customer, Customer ID 00004
+2019-04-23 13:52:03,682 basic_operations.py:38  INFO Added new customer, Customer ID 00001
+2019-04-23 13:52:03,686 basic_operations.py:38  INFO Added new customer, Customer ID 00004
+2019-04-23 13:52:03,693 basic_operations.py:38  INFO Added new customer, Customer ID 00001
+2019-04-23 13:52:03,694 basic_operations.py:96  INFO Customer with ID 00001 has been updated
